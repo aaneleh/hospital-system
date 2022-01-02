@@ -1,2 +1,0 @@
-Tem um arquivo .SQL pra importar o banco de dados com os nomes que usei no arquivo.
-Fora o banco de dados em si (que coloquei como clinica), todos seguem o "modelo lógico" que você deixou.
