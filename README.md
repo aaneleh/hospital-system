@@ -2,17 +2,22 @@
 ![Badge jdk](https://img.shields.io/badge/jdk-16.0-orange)
 
 ## Indice
-* [Descrição / Description](#descrição)
+* [Características / Features](#características)
 * [Demonstração / Demo](#demonstração)
     * [Login](#login)
     * [Home](#home)
     * [Registrar dados](#registrar-dados)
     * [Consultar dados](#consultar-dados)
-* [Características / Features](#características)
 * [Tecnologias / Tech](#tecnologias)
 * [Como usar / How to use](#Como-usar)
 
-## Descrição
+
+## Características
+
+- Registre-se e faça seu login
+- Adicione outros usuários, médicos, marque consultas, etc, no banco de dados
+- Visualize todos os registros e consultas disponíveis no banco de dados
+- Edite e exclua dados
 
 
 ## Demonstração
@@ -32,13 +37,6 @@
 ### Consultar dados
 
 ![Tela a mensagem 'Todos os Registros Disponíveis', acima um botão para voltar e outro para reiniciar, abaixo tabelas de informações dos usuários, clinicas, especialidades, médicos e pacientes](/demo/consultar-dados.png)
-
-## Características
-
-- Registre-se e faça seu login
-- Adicione outros usuários, médicos, marque consultas, etc, no banco de dados
-- Visualize todos os registros e consultas disponíveis no banco de dados
-- Edite e exclua dados
 
 
 ## Tecnologias
