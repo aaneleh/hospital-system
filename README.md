@@ -1,6 +1,8 @@
 # Sistema de Clinica Médica
 ![Badge jdk](https://img.shields.io/badge/jdk-16.0-orange)
 
+Ultima avaliação em java do IF // EN: Last program I made in java in school
+
 ## Indice
 * [Características / Features](#características)
 * [Demonstração / Demo](#demonstração)
